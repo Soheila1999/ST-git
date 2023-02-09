@@ -1,0 +1,11 @@
+1.查看分支
+	git branch
+2.创建分支
+	git branch 分支名称
+3.切换分支
+	git checkout 分支名称
+4.分支合并(可能产生冲突)
+	git merge 要合并的分支
+	注意：切换分支再合并
+5.删除分支
+	git  branch -d 分支名称
